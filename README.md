@@ -1,6 +1,8 @@
 ### Olá, Eu sou o Rodrigo Martins 👋
 Atualmente estou no 4º Semestre do curso de Ciência da Computação da Universidade Federal de Santa Catarina (UFSC). Me interesso tanto por front-end quanto por back-end, e as linguagens que mais utilizo no momento são Python e C, mas também possuo conhecimento em C++, C#, Java e Javascript, além de ter experiência com Linux, Banco de Dados Relacional, Unity e Orientação a Objetos. Estudo e me atualizo na área de tecnologia frequentemente pois adoro aprender coisas novas e utilizar meus conhecimentos para encontrar soluções inovadoras!
 
+### Connect with me!
+
 [![Blog](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1741809912)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigomds99/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomds99)
