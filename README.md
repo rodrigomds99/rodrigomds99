@@ -28,6 +28,7 @@ Atualmente estou no 4º Semestre do curso de Ciência da Computação da Univers
 <img align ="center" alt="html15" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align ="center" alt="html15" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
 ## Tecnologias Web:
