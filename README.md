@@ -10,7 +10,7 @@ Atualmente estou no 4º Semestre do curso de Ciência da Computação da Univers
 
 ![s GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomds99&show_icons=true&theme=radical)
 
-## Experiências com as seguintes linguagens
+## Experiências com as seguintes linguagens:
 
 <div style="display: inline_block"><br/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -21,13 +21,15 @@ Atualmente estou no 4º Semestre do curso de Ciência da Computação da Univers
 <img align ="center" alt="html15" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-## Ferramentas mais utilizadas
+## Ferramentas/Frameworks:
 
 <div style="display: inline_block"><br/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img align ="center" alt="html15" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white"/>
 
+## Tecnologias Web:
 
 
 </div>
