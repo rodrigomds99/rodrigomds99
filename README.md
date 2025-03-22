@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Rodrigo Martins 👋
-Atualmente estou no 4º Semestre do curso de Ciência da Computação da Universidade Federal de Santa Catarina (UFSC). Me interesso tanto por front-end quanto por back-end, e as linguagens que mais utilizo no momento são Python e JavaScript, mas também possuo conhecimento em C, C++ e Java, além de ter experiência com Linux, Banco de Dados Relacional, Orientação a Objetos, HTML5, CSS Node.js e React. Estudo e me atualizo na área de tecnologia frequentemente pois adoro aprender coisas novas e utilizar meus conhecimentos para encontrar soluções inovadoras!
+Atualmente estou no 4º Semestre do curso de Ciência da Computação da Universidade Federal de Santa Catarina (UFSC). Me interesso tanto por front-end quanto por back-end, e as linguagens que mais utilizo no momento são Python e JavaScript, mas também possuo conhecimento em C, C++ e Java, além de ter experiência com Linux, Banco de Dados Relacional, Orientação a Objetos, HTML, CSS Node.js e React. Estudo e me atualizo na área de tecnologia frequentemente pois adoro aprender coisas novas e utilizar meus conhecimentos para encontrar soluções inovadoras!
 
 ### Connect with me!
 
